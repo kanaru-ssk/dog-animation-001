@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+bin
+obj
+dog-animation-001.xcodeproj
+dog-animation-001.code-workspace
+Project.xcconfig
+openFrameworks-Info.plist
